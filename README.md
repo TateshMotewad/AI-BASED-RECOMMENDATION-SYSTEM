@@ -312,3 +312,4 @@ This project is highly useful for students and developers who want to learn AI-b
 
 OUTPUT
 ------
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/156a98dd-1e99-4e49-ac69-12cba1bc2aaf" />
